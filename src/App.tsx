@@ -331,7 +331,6 @@ function App() {
                     <span className="prize-icon">
                       <Icon size={22} strokeWidth={1.9} aria-hidden="true" />
                     </span>
-                    <span className="slice-badge">2 slices</span>
                   </div>
 
                   <div className="prize-card-body">
